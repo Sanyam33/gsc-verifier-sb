@@ -28,7 +28,7 @@ def help():
             "start_date": "2026-01-01",
             "end_date": "2026-02-01",
             "dimensions": ["query", "page","country", "device", "date"],
-            "search_type": "web"
+            "search_type": "web",
             "row_limit": "50 (1-25000)"
         }
     }
